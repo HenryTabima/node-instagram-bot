@@ -1,5 +1,5 @@
 module.exports = {
-  instaPyPath: '/home/buho/dev/instabot/InstaPy/',
-  regExp: /\bcliente-\w+\.py/,
+  instaPyPath: '../InstaPy/',
+  regExp: /\bclient-\w+\.py/,
   isLogging: true
 }
