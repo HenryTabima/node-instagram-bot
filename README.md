@@ -50,7 +50,7 @@ npm install pm2 -g
 pm2 start index.js --name instagram-bot
 ```
 
-**PD:** if you want to start pm2 daemon on system's restart, you have to run once ̣̣̣̣̣ ```pm2 startup```
+**PD:** if you want to start pm2 daemon on system's restart, you have to run once ```pm2 startup```
 
 ## Dependencies
 
