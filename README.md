@@ -5,8 +5,8 @@ this scrpit is to schedule [InstyPy](https://github.com/timgrossmann/InstaPy) sc
 ## **Use**
 First, Download [InstyPy](https://github.com/timgrossmann/InstaPy) and this repository
 ```
-git clone git@github.com:HenryTabima/node-instagram-bot.git
-git clone git@github.com:HenryTabima/node-instagram-bot.git
+git clone https://github.com/timgrossmann/InstaPy.git
+git clone https://github.com/HenryTabima/node-instagram-bot.git
 ```
 Open the porject folder and install dependencies
 
