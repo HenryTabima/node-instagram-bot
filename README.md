@@ -1,6 +1,6 @@
 # **Node Instagram Bot**
 
-this scrpit is to schedule [InstyPy](https://github.com/timgrossmann/InstaPy) scripts
+this script is to schedule [InstyPy](https://github.com/timgrossmann/InstaPy) scripts
 
 ## **Use**
 First, Download [InstyPy](https://github.com/timgrossmann/InstaPy) and this repository
@@ -29,11 +29,11 @@ module.exports = {
 ```
 write the path to your InstaPy's folder in instaPyPath.
 
-regExp is to find the InstaPy's scrpits. for this example I used a regular expression that match with ```client-*.py``` where * is any word (for exampe: [client-user1.py](#))
+regExp is to find the InstaPy's scripts. for this example, I used a regular expression that matches with ```client-*.py``` where * is any word (for example: [client-user1.py](#))
 
 ### **Daemonize** (keep it running)
 
-To ensure that de bot is always runing use [PM2](https://pm2.io/doc/en/runtime/quick-start/)
+To ensure that de bot is always running use [PM2](https://pm2.io/doc/en/runtime/quick-start/)
 
 #### pm2 installation
 With yarn:
